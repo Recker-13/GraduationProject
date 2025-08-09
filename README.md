@@ -152,7 +152,7 @@ A special thanks to my team members for their contributions during the developme
 
 
 ## 👥 Team
-[David Gamil](https://github.com/DavidG2Q) (Lead Developer)   |   [Yassa Mouris](https://github.com/yassaYM7)   |   [Mostafa Hassan](https://github.com/Mostafaa212)   |   [Khaled Ashraf](https://github.com/Recker-13)
+[David Gamil](https://github.com/DavidG2Q)   |   [Yassa Mouris](https://github.com/yassaYM7)   |   [Mostafa Hassan](https://github.com/Mostafaa212)   |   [Khaled Ashraf](https://github.com/Recker-13)
 
 
 ## 📄 License
@@ -162,3 +162,4 @@ This project is licensed under the **Creative Commons Attribution-NonCommercial 
 You may use, copy, and adapt this project **only for non-commercial purposes** and must give appropriate credit.
 
 🔗 [View License Details](https://creativecommons.org/licenses/by-nc/4.0/)
+
